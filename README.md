@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
