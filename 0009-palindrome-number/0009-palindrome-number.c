@@ -1,7 +1,7 @@
 bool isPalindrome(int x) {
     int copy;
     int rem=0;
-    long long int rev=0;
+    long int rev=0;
     
     int origin=x;
     if(x<0)
