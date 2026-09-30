@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0258-add-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
