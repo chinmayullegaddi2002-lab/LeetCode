@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0035-search-insert-position) |
+| [3903-smallest-stable-index-i](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
