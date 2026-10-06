@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0704-binary-search) |
 | [3903-smallest-stable-index-i](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
