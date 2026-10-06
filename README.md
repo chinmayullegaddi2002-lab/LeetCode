@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3903-smallest-stable-index-i](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chinmayullegaddi2002-lab/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
