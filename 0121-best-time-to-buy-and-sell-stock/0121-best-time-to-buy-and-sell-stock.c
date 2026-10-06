@@ -1,5 +1,5 @@
 int maxProfit(int* prices, int pricesSize) {
-    int min_price = INT_MAX;
+    int min_price = prices[0];
     int max_profit = 0;
     
     for (int i = 0; i < pricesSize; i++) {
